@@ -1,0 +1,8 @@
+this is first commit
+second commit
+<<<<<<< .merge_file_KhVsHB
+third commit
+=======
+foruth commit
+
+>>>>>>> .merge_file_wU2xTB
